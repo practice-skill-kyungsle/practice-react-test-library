@@ -11,7 +11,8 @@ npm run test
 
 ## 설명
 
-![image](https://github.com/practice-skill-kyungsle/practice-react-test-library/assets/79993356/69761538-aa8f-4a94-bfda-efd4f706c71b)
+![329840741-69761538-aa8f-4a94-bfda-efd4f706c71b](https://github.com/keinn51/keinn51/assets/79993356/74331df3-b13e-4083-b53c-c96960c4fff8)
+
 
 좌측처럼 **Form**을 만든다고 했을 때, 사람이 테스트를 한다고 해봅니다.
 
